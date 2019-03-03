@@ -1,0 +1,63 @@
+.ambitious-user-profile{
+	padding-top: 60px;
+}
+
+.ambitious-font{
+	padding-right: 10px;
+}
+
+.ambitious-font-2nd{
+	padding-right: 5px;
+}
+
+.ambitious-font-3rd{
+	padding-right: 3px;
+}
+
+.ambitious-form-loading{
+	background-image: linear-gradient(#41b3f9,#41b3f9),linear-gradient(rgba(120,130,140,.13),rgba(120,130,140,.13)) !important;
+}
+
+#ambitious-upload-image-pp{
+	height: 200px;
+	width: 180px;
+}
+
+input[type=checkbox], input[type=radio] {
+	margin: 0px !important;
+}
+
+.contact-list-style{
+	font-weight: 500;
+}
+
+.contact-list-style li{
+    list-style: none;
+}
+
+.contact-list-style li a{
+    padding: 15px 10px;
+    display: block;
+    color: #313131;
+    text-decoration: none;
+}
+
+.btn-info{
+	border: 1px solid #41b3f9;
+}
+
+.btn-danger{
+	border: 1px solid #f33155;
+}
+
+.btn-success{
+	border: 1px solid #7ace4c;
+}
+
+.ambitious-btn{
+	border-radius: 0px !important;
+}
+
+.ambitious-select-mode{
+	padding: 20px;
+}
